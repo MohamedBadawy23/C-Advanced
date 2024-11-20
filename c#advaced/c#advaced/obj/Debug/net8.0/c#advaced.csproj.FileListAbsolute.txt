@@ -1,0 +1,14 @@
+C:\Users\t\source\repos\c#advaced\c#advaced\obj\Debug\net8.0\c#advaced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t\source\repos\c#advaced\c#advaced\obj\Debug\net8.0\c#advaced.AssemblyInfoInputs.cache
+C:\Users\t\source\repos\c#advaced\c#advaced\obj\Debug\net8.0\c#advaced.AssemblyInfo.cs
+C:\Users\t\source\repos\c#advaced\c#advaced\obj\Debug\net8.0\c#advaced.csproj.CoreCompileInputs.cache
+C:\Users\t\source\repos\c#advaced\c#advaced\bin\Debug\net8.0\c#advaced.exe
+C:\Users\t\source\repos\c#advaced\c#advaced\bin\Debug\net8.0\c#advaced.deps.json
+C:\Users\t\source\repos\c#advaced\c#advaced\bin\Debug\net8.0\c#advaced.runtimeconfig.json
+C:\Users\t\source\repos\c#advaced\c#advaced\bin\Debug\net8.0\c#advaced.dll
+C:\Users\t\source\repos\c#advaced\c#advaced\bin\Debug\net8.0\c#advaced.pdb
+C:\Users\t\source\repos\c#advaced\c#advaced\obj\Debug\net8.0\c#advaced.dll
+C:\Users\t\source\repos\c#advaced\c#advaced\obj\Debug\net8.0\refint\c#advaced.dll
+C:\Users\t\source\repos\c#advaced\c#advaced\obj\Debug\net8.0\c#advaced.pdb
+C:\Users\t\source\repos\c#advaced\c#advaced\obj\Debug\net8.0\c#advaced.genruntimeconfig.cache
+C:\Users\t\source\repos\c#advaced\c#advaced\obj\Debug\net8.0\ref\c#advaced.dll
